@@ -1,0 +1,6 @@
+{
+  "name": "NOIR & BEAN — 3D Specialty Coffee Experience",
+  "description": "An immersive 3D specialty coffee sanctuary and artisanal café experience. Handcrafted single-origin roasts, interactive 3D coffee ritual, and table reservations in Pune.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
